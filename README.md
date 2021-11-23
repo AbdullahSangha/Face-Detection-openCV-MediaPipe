@@ -10,3 +10,9 @@ OpenCV is a great tool for image processing and performing computer vision tasks
 # Note
 ### You can specify video path in line five OR place zero in brackets for webcam detection
 # Screenshots
+![Alt text](results.png?raw=true "Result")
+# WebCam and Video Code
+### For Video Detection
+![Alt text](VideoDetection.png?raw=true "Video")
+### For Web Cam Live Detection
+![Alt text](webcam.png?raw=true "WebCam")
