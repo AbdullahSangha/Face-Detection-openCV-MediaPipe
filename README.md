@@ -1,4 +1,8 @@
-![alt text](https://google.github.io/mediapipe/images/mediapipe_small.png)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
+![alt text](https://google.github.io/mediapipe/images/logo_horizontal_color.png)
 # Face-Detection-openCV-MediaPipe
 MediaPipe offers cross-platform, customizable ML solutions for live and streaming media.
 MediaPipe offers ready-to-use yet customizable Python solutions as a prebuilt Python package. MediaPipe Python package is available on PyPI for Linux, macOS and Windows. Tip: Use command deactivate to later exit the Python virtual environment.
